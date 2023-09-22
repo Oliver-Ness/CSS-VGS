@@ -1,0 +1,77 @@
+#Imagegenerator
+{
+    text-align: left;
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    top: 0vw;
+    left: 50vw;
+   
+    padding: 100px;
+    font-size: 30px;
+}
+#GPT3Tech
+{
+    text-align: left;
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    top: 22.5vw;
+    left: 56.5vw;
+    font-size: 30px;
+}
+#Cowinspace
+{
+    text-align: left;
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    top: 38vw;
+    left: 56.5vw;
+    font-size: 30px;
+}
+#OfficeImage
+{
+    text-align: left;
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    top: 8vw;
+    left: 10vw;
+    width: 500px;
+    height: 500px;
+    
+    font-size: 30px;
+}
+#Dallelogo
+{
+    text-align: left;
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    top: 2vw;
+    left: 18vw;
+    width: 280px;
+    height: 70px;
+    
+    font-size: 30px;
+}
+#TryText
+{
+    text-align: left;
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    top: 42.5vw;
+    left: 17vw;
+    width: 500px;
+    height: 500px;
+    
+    font-size: 30px; 
+}
